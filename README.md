@@ -12,24 +12,39 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+My name is Alexander. I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Welcome to my portfolio! Here you will find examples of my projects created using Python.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling:  I am a Python backend developer. My skills include:
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+Confident Python proficiency
+*Knowledge of basic Python libraries and frameworks
+*Experience with databases
+*Ability to create efficient and scalable applications
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
-- 👋 Hi, I’m Aleksandr
-- 👀 I’m a Python backend developer
-- 📫 How to reach me__: adrolv@rambler.ru или adrolv08111985@gmail.com
+- :mailbox:How to reach me: adrolv@rambler.ru or 08111985adrolv@gmail.com
+- ### :hammer_and_wrench: Languages and Tools :
+- Python
+- Django
+- Flask
+- FastAPI
+- SQLAlchemy, SQL, PostgreSQL, MySQL
+- MongoDB
+- pytest
+- Docker
+- HTML, CSS, Bootstrap
+- Git
+- Redis
+- Celery
+- Linux
 
 
 
 
-<!---
-Dred85/Dred85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
