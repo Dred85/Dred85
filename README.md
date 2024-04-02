@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleksandr
-- 👀 I’m currently actively exploring the possibilities of the python programming language.
+- 👀 I’m a Python backend developer
 - 📫 How to reach me__: adrolv@rambler.ru или adrolv08111985@gmail.com
 
 
