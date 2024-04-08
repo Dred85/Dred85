@@ -40,7 +40,7 @@ Confident Python proficiency
 - Redis
 - Celery
 - Linux
-
+  Обязательно посетите мой сайт-портфолио http://dred.pythonanywhere.com/
 
 
 
