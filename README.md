@@ -41,7 +41,7 @@ Confident Python proficiency
 - Celery
 - Linux
 <br>
-  Обязательно посетите мой сайт-портфолио http://dred.pythonanywhere.com/
+ 
 
 
 
