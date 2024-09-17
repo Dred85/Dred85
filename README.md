@@ -31,7 +31,7 @@ Confident Python proficiency
 - Django
 - Flask
 - FastAPI
-- SQL, PostgreSQL, SQLAlchemy,
+- SQL, PostgreSQL, SQLAlchemy
 - pytest
 - Docker
 - HTML, CSS, Bootstrap
