@@ -28,13 +28,16 @@ Confident Python proficiency
 - :mailbox:How to reach me: adrolv@rambler.ru or 08111985adrolv@gmail.com
 - ### :hammer_and_wrench: Languages and Tools :
 - Python
-- Django
-- Flask
 - FastAPI
+- Django
+- DRF
 - SQL, PostgreSQL, SQLAlchemy
+- Locust
+- Jmeter
 - pytest
 - Docker
-- HTML, CSS, Bootstrap
+- Kafka
+- HTML, CSS
 - Git
 - Redis
 - Celery
